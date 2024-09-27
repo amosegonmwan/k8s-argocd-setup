@@ -9,10 +9,10 @@ Official documentation: https://argo-cd.readthedocs.io/en/stable/getting_started
 - `kubectl` installed and configured to communicate with your cluster
 - Helm 3 installed
 
-# Install ArgoCD in k8s
+## Install ArgoCD in k8s
 https://argo-cd.readthedocs.io/en/stable/getting_started/
 
-# Install Helm:
+### Install Helm:
 
   ```bash
   curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash
